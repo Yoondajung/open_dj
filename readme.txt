@@ -1,3 +1,1 @@
-git
-readme
-README
+git 입니다.
